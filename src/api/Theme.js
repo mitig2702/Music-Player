@@ -10,7 +10,7 @@ export const themes = {
         },
         button:{
             onHover:{
-                backgroundColor:"#a2d5f2",
+                backgroundColor:"#b59dfa",
                 color:"#191919"
             },
             contained:{
@@ -35,7 +35,7 @@ export const themes = {
         },
         button:{
             onHover:{
-                backgroundColor:"#a2d5f2",
+                backgroundColor:"#b59dfa",
                 color:"#fafafa"
             },
             contained:{

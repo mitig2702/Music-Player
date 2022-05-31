@@ -142,7 +142,88 @@ let musicDB = [
             download: "http://ncs.io/Ignite",
             stream: "http://youtu.be/zbqgv0mMfwk"
         }
+    },
+    {
+      id: 9,
+      name: "Different Heaven",
+      author_name: "My Heart",
+      img: "4.jpg",
+      lang: "ENGLISH",
+      timesPlayed: 0,
+      type: "electronic",
+      musicName: "4.mp3",
+      attribution: {
+          song: "Different Heaven & EH!DE - My Heart [NCS Release]",
+          musicBy: "NoCopyrightSounds",
+          download: null,
+          stream: null
+      }
+   },
+   {
+    id: 10,
+    name: "Channa Mereya",
+    author_name: "Arijit Singh, Pritam Chakraborty",
+    img: "Channa Mereya.jpg",
+    lang: "HINDI",
+    timesPlayed: 0,
+    type: "electronic",
+    musicName: "Channa Mereya.mp3",
+    attribution: {
+        song: "Arijit Singh - Channa Mereya",
+        musicBy: "Pritam Chakraborty",
+        download: null,
+        stream: null
     }
+   },
+   {
+    id: 11,
+    name: "Chahun Main Ya Naa",
+    author_name: "Palak Muchhal, Arijit Singh",
+    img: "Aashiqui2.jpg",
+    lang: "HINDI",
+    timesPlayed: 0,
+    type: "electronic",
+    musicName: "Chahun Main Ya Naa.mp3",
+    attribution: {
+        song: "Chahun Main Ya Naa",
+        musicBy: "Arijit Singh, Palak Muchhal",
+        download: null,
+        stream: null
+    }
+   },
+   {
+    id: 12,
+    name: "Naina",
+    author_name: "Arijit Singh",
+    img: "Dangal.jpg",
+    lang: "HINDI",
+    timesPlayed: 0,
+    type: "electronic",
+    musicName: "Naina.mp3",
+    attribution: {
+        song: "Naina",
+        musicBy: "Arijit Singh",
+        download: null,
+        stream: null
+    }
+   },
+   {
+    id: 13,
+    name: "Chunar",
+    author_name: "Arijit Singh",
+    img: "Chunar.jpg",
+    lang: "HINDI",
+    timesPlayed: 0,
+    type: "electronic",
+    musicName: "Chunar.mp3",
+    attribution: {
+        song: "Chunar",
+        musicBy: "Arijit Singh",
+        download: null,
+        stream: null
+    }
+   }
+   
 ];
 
 export default musicDB;
